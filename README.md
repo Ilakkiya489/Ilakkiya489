@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working on Aerial Image Quality Assessment (AIQA) using Deep Learning and Computer Vision techniques.<br><br>👯 I’m looking to collaborate on Machine Learning, Computer Vision, and Open Source projects.<br><br>🤝 I’m looking for help with advanced Deep Learning architectures and research-oriented AI projects.<br><br>🌱 I’m currently learning Data Structures & Algorithms, Machine Learning, Deep Learning, and Software Development.<br><br>💬 Ask me about Python, Machine Learning, Computer Vision, Git, and GitHub.<br><br>⚡ Fun fact: I enjoy solving technical challenges and building AI solutions that solve real-world problems.
+🚀 I have worked on Aerial Image Quality Assessment (AIQA) using Deep Learning and Computer Vision techniques.<br><br>👯 I’m looking to collaborate on Machine Learning, Computer Vision, and Open Source projects.<br><br>🤝 I’m looking for help with advanced Deep Learning architectures and research-oriented AI projects.<br><br>🌱 I’m currently learning Data Structures & Algorithms, Machine Learning, Deep Learning, and Software Development.<br><br>💬 Ask me about Python, Machine Learning, Computer Vision, Git, and GitHub.<br><br>⚡ Fun fact: I enjoy solving technical challenges and building AI solutions that solve real-world problems.
 
 
 ## 🌐 Socials:
