@@ -1,17 +1,17 @@
 #  About Me:
 
 
-I'm a Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning, and Computer Vision**, with a strong interest in developing intelligent solutions to real-world problems.<br><br>
+I'm a Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning,Computer Vision,Deep Learning,Data science,Full stack and software development**, with a strong interest in developing intelligent solutions to real-world problems.<br><br>
 
 **Research & Experience:** Worked on Aerial Image Quality Assessment (AIQA) using Deep Learning and Computer Vision techniques, exploring image analysis and quality prediction.<br><br>
 
-**Interests:** Machine Learning, Deep Learning, Computer Vision, AI Research, and Open-Source Development.<br><br>
+**Interests:** Artificial Intelligence,Machine Learning, Deep Learning, Computer Vision, AI Research, and Open-Source Development.<br><br>
 
-**Currently Exploring:** Data Structures & Algorithms, advanced Deep Learning architectures, Machine Learning, and Software Engineering.<br><br>
+**Currently Exploring:** Data Structures & Algorithms, advanced Deep Learning architectures,Artificial Intelligence, Machine Learning, and Software Engineering.<br><br>
 
 **Open to Collaborate:** AI/ML research, Computer Vision applications, and impactful open-source projects.<br><br>
 
-**Let's Connect:** Python, Machine Learning, Computer Vision, Git, and GitHub.<br><br>
+**Let's Connect:** Python, Machine Learning,Artificial Intelligence,Computer Vision, Git, and GitHub.<br><br>
 
 ⚡ **Beyond Coding:** I enjoy solving challenging technical problems, exploring emerging technologies, and transforming innovative ideas into practical AI solutions.
 
